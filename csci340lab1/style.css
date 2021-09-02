@@ -1,0 +1,9 @@
+.jumbotron {
+  display: flex;
+  align-items: center;
+  background-image: "Icedtea.jpg";
+  background-size: cover;
+  color: #111111;
+  height: 500px;
+
+}
